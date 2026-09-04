@@ -1,4 +1,4 @@
-##Hi, I  am  Indu
+## Hi, I  am  Indu
 📚B.Tech CSE student
 🌱 Learning python & Graphic  design.
 Infosys springboard learner
